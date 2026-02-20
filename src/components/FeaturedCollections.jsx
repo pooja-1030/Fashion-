@@ -9,7 +9,7 @@ const collections = [
     {
         id: 2,
         title: 'Men',
-        image: 'https://images.unsplash.com/photo-1516257984-b1b4d8c9230c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
+        image: 'https://i.pinimg.com/736x/dd/99/fd/dd99fd46615cd6749b55d6f452767b7e.jpg',
     },
     {
         id: 3,
